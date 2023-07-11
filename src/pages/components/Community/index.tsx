@@ -31,7 +31,7 @@ export default function Community() {
           variants={textVariant(0.8, 1)}
           className="flex text-center xl:text-left font-dm font-normal text-lg sm:text-xl md:text-3xl leading-7 md:leading-10 px-12 sm:px-20 md:px-40 xl:pr-10 xl:pl-0"
         >
-          CosmoVerse's apps and services are seamlessly connected through IBC,
+          CosmoVerse&apos;s apps and services are seamlessly connected through IBC,
           the Inter-Blockchain Communication protocol. This groundbreaking
           innovation enables you to effortlessly exchange assets and data across
           sovereign blockchains.
